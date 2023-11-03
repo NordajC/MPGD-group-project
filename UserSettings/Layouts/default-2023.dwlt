@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 790
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 29
+  controlID: 19
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 30
+  controlID: 20
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 31
+  controlID: 21
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -675,9 +675,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 503.99228, y: 213.35796, z: 0.980215}
+    m_Target: {x: 368.2991, y: 239.50844, z: 4.077999}
     speed: 2
-    m_Value: {x: 503.99228, y: 213.35796, z: 0.980215}
+    m_Value: {x: 368.2991, y: 239.50844, z: 4.077999}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -727,9 +727,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 350.30002
+    m_Target: 296.4237
     speed: 2
-    m_Value: 350.30002
+    m_Value: 296.4237
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -793,9 +793,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ca5d0000
+      m_SelectedIDs: c05d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 86f5ffffcaf5ffff0ef6ffff54f6ffff98f6ffffdcf6ffff20f7ffff5af7ffff5afaffff
+      m_ExpandedIDs: dad3ffff42d5ffffd2e5ffffd8e5ffffe8f9ffff2cfaffff26fbffff6a5e0000825e0000925e0000a85e0000b85e0000d25e0000ea5e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1099,15 +1099,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/shahnnaseem/Documents/1. University/Year 3/ECS657U -
-    Multi-Platform Game Development/User Interface/UI
+  m_LastProjectPath: /Users/shahnnaseem/Documents/GitHub/MPGD-group-project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a45d0000
-    m_LastClickedID: 23972
-    m_ExpandedIDs: 000000009e5d000000ca9a3bffffff7f
+    m_SelectedIDs: 985d0000
+    m_LastClickedID: 23960
+    m_ExpandedIDs: 00000000925d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1135,7 +1134,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009e5d0000
+    m_ExpandedIDs: 00000000925d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
